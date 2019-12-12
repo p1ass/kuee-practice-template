@@ -7,7 +7,7 @@
 
 ## 使い方
 
-1. `緑色の `Clone or download` を出してzipファイルをダウンロードする。
+1. 緑色の `Clone or download` を出してzipファイルをダウンロードする。
 2. zipを解凍する。
 3. 解凍したディレクトリで `jupyter notebook` コマンドを実行。
 4. `kuee-practice-template.ipynb` を開く。
